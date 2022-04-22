@@ -1,0 +1,10 @@
+@keyframes indicator_scrol_down {
+    0%{
+        opacity: 1;
+        top: 10px;
+    }100%{
+        opacity: 0;
+        top: 30px;
+        transform: scale(.8);
+    }
+}
